@@ -46,3 +46,6 @@ There is 1 notebook available here to showcase work related to the above questio
 
 
 data.zip which contains 3 files csv contains observations about seattle AirBNB open Data 
+
+# A blog post
+https://medium.com/@ahmadashish/seattle-airbnb-open-data-a-data-science-blog-post-7ec673e8a811?sk=ce1451ed5786323f6ec0d80c7f1e2a68
