@@ -29,7 +29,7 @@ You will also need to have software installed to run and execute an iPython Note
 I recommend you install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project
 
 # Motivation for the project
-This is one of 2nd term projects of Data Science Nanodegree Program by Udacity. The goal of the project is to write a blog post to share the result of the analysis of [Seattle AirBNB Data] (https://www.kaggle.com/airbnb/seattle/data) using CRISP-DM process(Cross Industry Process for Data Mining) to answer the three questions
+This is one of 2nd term projects of Data Science Nanodegree Program by Udacity. The goal of the project is to write a blog post to share the result of the analysis of [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data) using CRISP-DM process(Cross Industry Process for Data Mining) to answer the three questions
 
 What is the seasonal pattern of Airbnb in Seattle?
 
@@ -47,5 +47,4 @@ There is 1 notebook available here to showcase work related to the above questio
 
 data.zip which contains 3 files csv contains observations about seattle AirBNB open Data 
 
-# A blog post
-https://medium.com/@ahmadashish/seattle-airbnb-open-data-a-data-science-blog-post-7ec673e8a811?sk=ce1451ed5786323f6ec0d80c7f1e2a68
+# A blog [post](https://medium.com/@ahmadashish/seattle-airbnb-open-data-a-data-science-blog-post-7ec673e8a811?sk=ce1451ed5786323f6ec0d80c7f1e2a68)
